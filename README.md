@@ -2,7 +2,7 @@
 <h2>Demonstrates implementation of a simple stack in Python</h2>
 <h3>Run my_stack.py without command line arguments:</h3>
 <img alt="Run my_stack.py" src="https://raw.githubusercontent.com/ArdeshirV/my_stack/master/img/my_stack_without_cmdl_arguments.png">
-</br></br>
+</br>
 <h3>Run my_stack.py with command line arguments:</h3>
 <img alt="Run my_stack.py" src="https://raw.githubusercontent.com/ArdeshirV/my_stack/master/img/my_stack_with_cmdl_argument2.png">
 </br></br>
