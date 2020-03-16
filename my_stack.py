@@ -84,7 +84,7 @@ class my_stak:
 			data = self.root.data
 			old_root = self.root
 			self.root = self.root.node
-			free(old_root)bb
+			free(old_root)
 		self.num -= 1
 		return data
 		
