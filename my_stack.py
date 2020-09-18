@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #  my_stack.py - Demonstrates implementation of a simple stack in Python3, Version 1.0
 #  Copyright (c) 2020 ArdeshirV@protonmail.com, Licensed under GPLv3+
 # -*- coding: utf-8 -*-

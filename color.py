@@ -11,8 +11,8 @@ BoldGreen = '\033[1;32m'
 
 
 if platform.system() == 'Windows':
-	from colorama import init
-	init()
+    from colorama import init
+    init()
 
 
 def print_title_and_copyright():
